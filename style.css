@@ -16,7 +16,8 @@ body {
 }
 
 #profile-image {
-  width: 100%;
+  position: center;
+  width: 300px;
   height: auto;
 }
 
